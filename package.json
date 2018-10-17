@@ -1,0 +1,12 @@
+{
+  "name": "Musicplayer",
+  "version": "1.0.0",
+  "description": "Small frontend music player made with html, css, jquery",
+  "main": "server/server.js",
+  "scripts": {},
+  "author": "Martin Lecke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
